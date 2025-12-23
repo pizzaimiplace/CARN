@@ -16,3 +16,6 @@ Training stops if validation loss does not improve for 5 epochs.
 ## Inference
 The model is benchmarked against sequential torchvision transforms.
 On GPU/MPS and sufficient batch sizes, the model is significantly faster.
+
+## Expected Points
+I expect to get at least 8 points for this homework, although I believe I deserve the maximum grade.
